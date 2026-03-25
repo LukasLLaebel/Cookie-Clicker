@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cursor",
+      "price": 15,
+      "currentPrice": 15,
+      "count": 0,
+      "multiplier": 0.1,
+      "unlocked": true
+    },
+    {
+      "id": 2,
+      "name": "Grandma",
+      "price": 100,
+      "currentPrice": 100,
+      "count": 0,
+      "multiplier": 1,
+      "unlocked": false
+    },
+    {
+      "id": 3,
+      "name": "Farm",
+      "price": 1100,
+      "currentPrice": 1100,
+      "count": 0,
+      "multiplier": 8,
+      "unlocked": false
+    },
+    {
+      "id": 4,
+      "name": "Mine",
+      "price": 12000,
+      "currentPrice": 12000,
+      "count": 0,
+      "multiplier": 47,
+      "unlocked": false
+    },
+    {
+      "id": 5,
+      "name": "Factory",
+      "price": 130000,
+      "currentPrice": 130000,
+      "count": 0,
+      "multiplier": 260,
+      "unlocked": false
+    },
+    {
+      "id": 6,
+      "name": "Bank",
+      "price": 1400000,
+      "currentPrice": 1400000,
+      "count": 0,
+      "multiplier": 1400,
+      "unlocked": false
+    },
+    {
+      "id": 7,
+      "name": "Temple",
+      "price": 20000000,
+      "currentPrice": 20000000,
+      "count": 0,
+      "multiplier": 7800,
+      "unlocked": false
+    },
+    {
+      "id": 8,
+      "name": "Wizard Tower",
+      "price": 330000000,
+      "currentPrice": 330000000,
+      "count": 0,
+      "multiplier": 44000,
+      "unlocked": false
+    },
+    {
+      "id": 9,
+      "name": "Shipment",
+      "price": 5100000000,
+      "currentPrice": 5100000000,
+      "count": 0,
+      "multiplier": 260000,
+      "unlocked": false
+    },
+    {
+      "id": 10,
+      "name": "Alchemy Lab",
+      "price": 75000000000,
+      "currentPrice": 75000000000,
+      "count": 0,
+      "multiplier": 1600000,
+      "unlocked": false
+    },
+    {
+      "id": 11,
+      "name": "Portal",
+      "price": 1000000000000,
+      "currentPrice": 1000000000000,
+      "count": 0,
+      "multiplier": 10000000,
+      "unlocked": false
+    },
+    {
+      "id": 12,
+      "name": "Time Machine",
+      "price": 14000000000000,
+      "currentPrice": 14000000000000,
+      "count": 0,
+      "multiplier": 65000000,
+      "unlocked": false
+    },
+    {
+      "id": 13,
+      "name": "Antimatter Condenser",
+      "price": 170000000000000,
+      "currentPrice": 170000000000000,
+      "count": 0,
+      "multiplier": 430000000,
+      "unlocked": false
+    },
+    {
+      "id": 14,
+      "name": "Prism",
+      "price": 2100000000000000,
+      "currentPrice": 2100000000000000,
+      "count": 0,
+      "multiplier": 2900000000,
+      "unlocked": false
+    },
+    {
+      "id": 15,
+      "name": "Chancemaker",
+      "price": 26000000000000000,
+      "currentPrice": 26000000000000000,
+      "count": 0,
+      "multiplier": 21000000000,
+      "unlocked": false
+    },
+    {
+      "id": 16,
+      "name": "Fractal Engine",
+      "price": 310000000000000000,
+      "currentPrice": 310000000000000000,
+      "count": 0,
+      "multiplier": 150000000000,
+      "unlocked": false
+    },
+    {
+      "id": 17,
+      "name": "Javascript Console",
+      "price": 71000000000000000000,
+      "currentPrice": 71000000000000000000,
+      "count": 0,
+      "multiplier": 1100000000000,
+      "unlocked": false
+    },
+    {
+      "id": 18,
+      "name": "Idleverse",
+      "price": 1200000000000000000000,
+      "currentPrice": 1200000000000000000000,
+      "count": 0,
+      "multiplier": 8300000000000,
+      "unlocked": false
+    },
+    {
+      "id": 19,
+      "name": "Cortex Baker",
+      "price": 19000000000000000000000,
+      "currentPrice": 19000000000000000000000,
+      "count": 0,
+      "multiplier": 64000000000000,
+      "unlocked": false
+    },
+    {
+      "id": 20,
+      "name": "You",
+      "price": 540000000000000000000000,
+      "currentPrice": 540000000000000000000000,
+      "count": 0,
+      "multiplier": 510000000000000,
+      "unlocked": false
+    }
+  ]
+}

@@ -1,0 +1,4292 @@
+[
+  {
+    "id": 1,
+    "name": "Cursor Upgrade 1",
+    "price": 100,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 1
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 2,
+    "name": "Cursor Upgrade 2",
+    "price": 114.99999999999999,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 2
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 3,
+    "name": "Cursor Upgrade 3",
+    "price": 132.24999999999997,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 3
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 4,
+    "name": "Cursor Upgrade 4",
+    "price": 152.08749999999995,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 4
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 5,
+    "name": "Cursor Upgrade 5",
+    "price": 174.90062499999993,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 5
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 6,
+    "name": "Cursor Upgrade 6",
+    "price": 201.1357187499999,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 6
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 7,
+    "name": "Cursor Upgrade 7",
+    "price": 231.30607656249987,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 7
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 8,
+    "name": "Cursor Upgrade 8",
+    "price": 266.0019880468748,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 8
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 9,
+    "name": "Cursor Upgrade 9",
+    "price": 305.902286253906,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 9
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 10,
+    "name": "Cursor Upgrade 10",
+    "price": 351.7876291919919,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 10
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 11,
+    "name": "Cursor Upgrade 11",
+    "price": 404.5557735707907,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 11
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 12,
+    "name": "Cursor Upgrade 12",
+    "price": 465.23913960640925,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 12
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 13,
+    "name": "Cursor Upgrade 13",
+    "price": 535.0250105473706,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 13
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 14,
+    "name": "Cursor Upgrade 14",
+    "price": 615.2787621294761,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 14
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 15,
+    "name": "Cursor Upgrade 15",
+    "price": 707.5705764488976,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 15
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 16,
+    "name": "Cursor Upgrade 16",
+    "price": 813.7061629162321,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 16
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 17,
+    "name": "Cursor Upgrade 17",
+    "price": 935.7620873536669,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 17
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 18,
+    "name": "Cursor Upgrade 18",
+    "price": 1076.1264004567167,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 18
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 19,
+    "name": "Cursor Upgrade 19",
+    "price": 1237.5453605252242,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 19
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 20,
+    "name": "Cursor Upgrade 20",
+    "price": 1423.1771646040077,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 20
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 21,
+    "name": "Cursor Upgrade 21",
+    "price": 1636.6537392946086,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 21
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 22,
+    "name": "Cursor Upgrade 22",
+    "price": 1882.1518001887998,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 22
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 23,
+    "name": "Cursor Upgrade 23",
+    "price": 2164.4745702171194,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 23
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 24,
+    "name": "Cursor Upgrade 24",
+    "price": 2489.145755749687,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 24
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 25,
+    "name": "Cursor Upgrade 25",
+    "price": 2862.51761911214,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 25
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 26,
+    "name": "Cursor Upgrade 26",
+    "price": 3291.8952619789607,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 26
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 27,
+    "name": "Cursor Upgrade 27",
+    "price": 3785.6795512758044,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 27
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 28,
+    "name": "Cursor Upgrade 28",
+    "price": 4353.531483967175,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 28
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 29,
+    "name": "Cursor Upgrade 29",
+    "price": 5006.561206562251,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 29
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 30,
+    "name": "Cursor Upgrade 30",
+    "price": 5757.545387546588,
+    "requirements": {
+      "building": "Cursor",
+      "amount": 30
+    },
+    "category": "cursor",
+    "multiplier": 2
+  },
+  {
+    "id": 31,
+    "name": "Grandma Upgrade 1",
+    "price": 6621.177195678576,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 1
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 32,
+    "name": "Grandma Upgrade 2",
+    "price": 7614.353775030362,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 2
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 33,
+    "name": "Grandma Upgrade 3",
+    "price": 8756.506841284916,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 3
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 34,
+    "name": "Grandma Upgrade 4",
+    "price": 10069.982867477653,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 4
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 35,
+    "name": "Grandma Upgrade 5",
+    "price": 11580.480297599299,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 5
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 36,
+    "name": "Grandma Upgrade 6",
+    "price": 13317.552342239193,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 6
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 37,
+    "name": "Grandma Upgrade 7",
+    "price": 15315.185193575071,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 7
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 38,
+    "name": "Grandma Upgrade 8",
+    "price": 17612.46297261133,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 8
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 39,
+    "name": "Grandma Upgrade 9",
+    "price": 20254.33241850303,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 9
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 40,
+    "name": "Grandma Upgrade 10",
+    "price": 23292.48228127848,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 10
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 41,
+    "name": "Grandma Upgrade 11",
+    "price": 26786.35462347025,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 11
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 42,
+    "name": "Grandma Upgrade 12",
+    "price": 30804.307816990786,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 12
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 43,
+    "name": "Grandma Upgrade 13",
+    "price": 35424.9539895394,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 13
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 44,
+    "name": "Grandma Upgrade 14",
+    "price": 40738.6970879703,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 14
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 45,
+    "name": "Grandma Upgrade 15",
+    "price": 46849.50165116584,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 15
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 46,
+    "name": "Grandma Upgrade 16",
+    "price": 53876.92689884071,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 16
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 47,
+    "name": "Grandma Upgrade 17",
+    "price": 61958.46593366681,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 17
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 48,
+    "name": "Grandma Upgrade 18",
+    "price": 71252.23582371682,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 18
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 49,
+    "name": "Grandma Upgrade 19",
+    "price": 81940.07119727434,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 19
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 50,
+    "name": "Grandma Upgrade 20",
+    "price": 94231.08187686549,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 20
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 51,
+    "name": "Grandma Upgrade 21",
+    "price": 108365.7441583953,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 21
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 52,
+    "name": "Grandma Upgrade 22",
+    "price": 124620.60578215458,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 22
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 53,
+    "name": "Grandma Upgrade 23",
+    "price": 143313.69664947776,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 23
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 54,
+    "name": "Grandma Upgrade 24",
+    "price": 164810.75114689942,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 24
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 55,
+    "name": "Grandma Upgrade 25",
+    "price": 189532.3638189343,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 25
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 56,
+    "name": "Grandma Upgrade 26",
+    "price": 217962.21839177443,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 26
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 57,
+    "name": "Grandma Upgrade 27",
+    "price": 250656.55115054056,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 27
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 58,
+    "name": "Grandma Upgrade 28",
+    "price": 288255.03382312163,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 28
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 59,
+    "name": "Grandma Upgrade 29",
+    "price": 331493.28889658983,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 29
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 60,
+    "name": "Grandma Upgrade 30",
+    "price": 381217.28223107825,
+    "requirements": {
+      "building": "Grandma",
+      "amount": 30
+    },
+    "category": "grandma",
+    "multiplier": 2
+  },
+  {
+    "id": 61,
+    "name": "Farm Upgrade 1",
+    "price": 438399.87456573994,
+    "requirements": {
+      "building": "Farm",
+      "amount": 1
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 62,
+    "name": "Farm Upgrade 2",
+    "price": 504159.85575060087,
+    "requirements": {
+      "building": "Farm",
+      "amount": 2
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 63,
+    "name": "Farm Upgrade 3",
+    "price": 579783.834113191,
+    "requirements": {
+      "building": "Farm",
+      "amount": 3
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 64,
+    "name": "Farm Upgrade 4",
+    "price": 666751.4092301696,
+    "requirements": {
+      "building": "Farm",
+      "amount": 4
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 65,
+    "name": "Farm Upgrade 5",
+    "price": 766764.120614695,
+    "requirements": {
+      "building": "Farm",
+      "amount": 5
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 66,
+    "name": "Farm Upgrade 6",
+    "price": 881778.7387068992,
+    "requirements": {
+      "building": "Farm",
+      "amount": 6
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 67,
+    "name": "Farm Upgrade 7",
+    "price": 1014045.549512934,
+    "requirements": {
+      "building": "Farm",
+      "amount": 7
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 68,
+    "name": "Farm Upgrade 8",
+    "price": 1166152.381939874,
+    "requirements": {
+      "building": "Farm",
+      "amount": 8
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 69,
+    "name": "Farm Upgrade 9",
+    "price": 1341075.2392308551,
+    "requirements": {
+      "building": "Farm",
+      "amount": 9
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 70,
+    "name": "Farm Upgrade 10",
+    "price": 1542236.5251154832,
+    "requirements": {
+      "building": "Farm",
+      "amount": 10
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 71,
+    "name": "Farm Upgrade 11",
+    "price": 1773572.0038828056,
+    "requirements": {
+      "building": "Farm",
+      "amount": 11
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 72,
+    "name": "Farm Upgrade 12",
+    "price": 2039607.8044652264,
+    "requirements": {
+      "building": "Farm",
+      "amount": 12
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 73,
+    "name": "Farm Upgrade 13",
+    "price": 2345548.97513501,
+    "requirements": {
+      "building": "Farm",
+      "amount": 13
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 74,
+    "name": "Farm Upgrade 14",
+    "price": 2697381.3214052618,
+    "requirements": {
+      "building": "Farm",
+      "amount": 14
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 75,
+    "name": "Farm Upgrade 15",
+    "price": 3101988.5196160506,
+    "requirements": {
+      "building": "Farm",
+      "amount": 15
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 76,
+    "name": "Farm Upgrade 16",
+    "price": 3567286.797558458,
+    "requirements": {
+      "building": "Farm",
+      "amount": 16
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 77,
+    "name": "Farm Upgrade 17",
+    "price": 4102379.8171922266,
+    "requirements": {
+      "building": "Farm",
+      "amount": 17
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 78,
+    "name": "Farm Upgrade 18",
+    "price": 4717736.78977106,
+    "requirements": {
+      "building": "Farm",
+      "amount": 18
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 79,
+    "name": "Farm Upgrade 19",
+    "price": 5425397.308236719,
+    "requirements": {
+      "building": "Farm",
+      "amount": 19
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 80,
+    "name": "Farm Upgrade 20",
+    "price": 6239206.904472226,
+    "requirements": {
+      "building": "Farm",
+      "amount": 20
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 81,
+    "name": "Farm Upgrade 21",
+    "price": 7175087.94014306,
+    "requirements": {
+      "building": "Farm",
+      "amount": 21
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 82,
+    "name": "Farm Upgrade 22",
+    "price": 8251351.131164518,
+    "requirements": {
+      "building": "Farm",
+      "amount": 22
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 83,
+    "name": "Farm Upgrade 23",
+    "price": 9489053.800839195,
+    "requirements": {
+      "building": "Farm",
+      "amount": 23
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 84,
+    "name": "Farm Upgrade 24",
+    "price": 10912411.870965073,
+    "requirements": {
+      "building": "Farm",
+      "amount": 24
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 85,
+    "name": "Farm Upgrade 25",
+    "price": 12549273.651609832,
+    "requirements": {
+      "building": "Farm",
+      "amount": 25
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 86,
+    "name": "Farm Upgrade 26",
+    "price": 14431664.699351307,
+    "requirements": {
+      "building": "Farm",
+      "amount": 26
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 87,
+    "name": "Farm Upgrade 27",
+    "price": 16596414.404254002,
+    "requirements": {
+      "building": "Farm",
+      "amount": 27
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 88,
+    "name": "Farm Upgrade 28",
+    "price": 19085876.564892102,
+    "requirements": {
+      "building": "Farm",
+      "amount": 28
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 89,
+    "name": "Farm Upgrade 29",
+    "price": 21948758.049625915,
+    "requirements": {
+      "building": "Farm",
+      "amount": 29
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 90,
+    "name": "Farm Upgrade 30",
+    "price": 25241071.7570698,
+    "requirements": {
+      "building": "Farm",
+      "amount": 30
+    },
+    "category": "farm",
+    "multiplier": 2
+  },
+  {
+    "id": 91,
+    "name": "Mine Upgrade 1",
+    "price": 29027232.520630267,
+    "requirements": {
+      "building": "Mine",
+      "amount": 1
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 92,
+    "name": "Mine Upgrade 2",
+    "price": 33381317.398724806,
+    "requirements": {
+      "building": "Mine",
+      "amount": 2
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 93,
+    "name": "Mine Upgrade 3",
+    "price": 38388515.00853352,
+    "requirements": {
+      "building": "Mine",
+      "amount": 3
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 94,
+    "name": "Mine Upgrade 4",
+    "price": 44146792.25981355,
+    "requirements": {
+      "building": "Mine",
+      "amount": 4
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 95,
+    "name": "Mine Upgrade 5",
+    "price": 50768811.09878557,
+    "requirements": {
+      "building": "Mine",
+      "amount": 5
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 96,
+    "name": "Mine Upgrade 6",
+    "price": 58384132.763603404,
+    "requirements": {
+      "building": "Mine",
+      "amount": 6
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 97,
+    "name": "Mine Upgrade 7",
+    "price": 67141752.6781439,
+    "requirements": {
+      "building": "Mine",
+      "amount": 7
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 98,
+    "name": "Mine Upgrade 8",
+    "price": 77213015.57986549,
+    "requirements": {
+      "building": "Mine",
+      "amount": 8
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 99,
+    "name": "Mine Upgrade 9",
+    "price": 88794967.9168453,
+    "requirements": {
+      "building": "Mine",
+      "amount": 9
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 100,
+    "name": "Mine Upgrade 10",
+    "price": 102114213.1043721,
+    "requirements": {
+      "building": "Mine",
+      "amount": 10
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 101,
+    "name": "Mine Upgrade 11",
+    "price": 117431345.0700279,
+    "requirements": {
+      "building": "Mine",
+      "amount": 11
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 102,
+    "name": "Mine Upgrade 12",
+    "price": 135046046.83053207,
+    "requirements": {
+      "building": "Mine",
+      "amount": 12
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 103,
+    "name": "Mine Upgrade 13",
+    "price": 155302953.85511187,
+    "requirements": {
+      "building": "Mine",
+      "amount": 13
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 104,
+    "name": "Mine Upgrade 14",
+    "price": 178598396.93337864,
+    "requirements": {
+      "building": "Mine",
+      "amount": 14
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 105,
+    "name": "Mine Upgrade 15",
+    "price": 205388156.47338542,
+    "requirements": {
+      "building": "Mine",
+      "amount": 15
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 106,
+    "name": "Mine Upgrade 16",
+    "price": 236196379.94439322,
+    "requirements": {
+      "building": "Mine",
+      "amount": 16
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 107,
+    "name": "Mine Upgrade 17",
+    "price": 271625836.9360522,
+    "requirements": {
+      "building": "Mine",
+      "amount": 17
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 108,
+    "name": "Mine Upgrade 18",
+    "price": 312369712.47646,
+    "requirements": {
+      "building": "Mine",
+      "amount": 18
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 109,
+    "name": "Mine Upgrade 19",
+    "price": 359225169.34792894,
+    "requirements": {
+      "building": "Mine",
+      "amount": 19
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 110,
+    "name": "Mine Upgrade 20",
+    "price": 413108944.75011826,
+    "requirements": {
+      "building": "Mine",
+      "amount": 20
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 111,
+    "name": "Mine Upgrade 21",
+    "price": 475075286.46263593,
+    "requirements": {
+      "building": "Mine",
+      "amount": 21
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 112,
+    "name": "Mine Upgrade 22",
+    "price": 546336579.4320313,
+    "requirements": {
+      "building": "Mine",
+      "amount": 22
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 113,
+    "name": "Mine Upgrade 23",
+    "price": 628287066.346836,
+    "requirements": {
+      "building": "Mine",
+      "amount": 23
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 114,
+    "name": "Mine Upgrade 24",
+    "price": 722530126.2988613,
+    "requirements": {
+      "building": "Mine",
+      "amount": 24
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 115,
+    "name": "Mine Upgrade 25",
+    "price": 830909645.2436904,
+    "requirements": {
+      "building": "Mine",
+      "amount": 25
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 116,
+    "name": "Mine Upgrade 26",
+    "price": 955546092.0302439,
+    "requirements": {
+      "building": "Mine",
+      "amount": 26
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 117,
+    "name": "Mine Upgrade 27",
+    "price": 1098878005.8347805,
+    "requirements": {
+      "building": "Mine",
+      "amount": 27
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 118,
+    "name": "Mine Upgrade 28",
+    "price": 1263709706.7099974,
+    "requirements": {
+      "building": "Mine",
+      "amount": 28
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 119,
+    "name": "Mine Upgrade 29",
+    "price": 1453266162.716497,
+    "requirements": {
+      "building": "Mine",
+      "amount": 29
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 120,
+    "name": "Mine Upgrade 30",
+    "price": 1671256087.1239715,
+    "requirements": {
+      "building": "Mine",
+      "amount": 30
+    },
+    "category": "mine",
+    "multiplier": 2
+  },
+  {
+    "id": 121,
+    "name": "Factory Upgrade 1",
+    "price": 1921944500.192567,
+    "requirements": {
+      "building": "Factory",
+      "amount": 1
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 122,
+    "name": "Factory Upgrade 2",
+    "price": 2210236175.221452,
+    "requirements": {
+      "building": "Factory",
+      "amount": 2
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 123,
+    "name": "Factory Upgrade 3",
+    "price": 2541771601.5046697,
+    "requirements": {
+      "building": "Factory",
+      "amount": 3
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 124,
+    "name": "Factory Upgrade 4",
+    "price": 2923037341.73037,
+    "requirements": {
+      "building": "Factory",
+      "amount": 4
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 125,
+    "name": "Factory Upgrade 5",
+    "price": 3361492942.9899254,
+    "requirements": {
+      "building": "Factory",
+      "amount": 5
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 126,
+    "name": "Factory Upgrade 6",
+    "price": 3865716884.438414,
+    "requirements": {
+      "building": "Factory",
+      "amount": 6
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 127,
+    "name": "Factory Upgrade 7",
+    "price": 4445574417.104176,
+    "requirements": {
+      "building": "Factory",
+      "amount": 7
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 128,
+    "name": "Factory Upgrade 8",
+    "price": 5112410579.669802,
+    "requirements": {
+      "building": "Factory",
+      "amount": 8
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 129,
+    "name": "Factory Upgrade 9",
+    "price": 5879272166.620272,
+    "requirements": {
+      "building": "Factory",
+      "amount": 9
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 130,
+    "name": "Factory Upgrade 10",
+    "price": 6761162991.613312,
+    "requirements": {
+      "building": "Factory",
+      "amount": 10
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 131,
+    "name": "Factory Upgrade 11",
+    "price": 7775337440.355308,
+    "requirements": {
+      "building": "Factory",
+      "amount": 11
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 132,
+    "name": "Factory Upgrade 12",
+    "price": 8941638056.408604,
+    "requirements": {
+      "building": "Factory",
+      "amount": 12
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 133,
+    "name": "Factory Upgrade 13",
+    "price": 10282883764.869894,
+    "requirements": {
+      "building": "Factory",
+      "amount": 13
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 134,
+    "name": "Factory Upgrade 14",
+    "price": 11825316329.600378,
+    "requirements": {
+      "building": "Factory",
+      "amount": 14
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 135,
+    "name": "Factory Upgrade 15",
+    "price": 13599113779.040434,
+    "requirements": {
+      "building": "Factory",
+      "amount": 15
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 136,
+    "name": "Factory Upgrade 16",
+    "price": 15638980845.896498,
+    "requirements": {
+      "building": "Factory",
+      "amount": 16
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 137,
+    "name": "Factory Upgrade 17",
+    "price": 17984827972.78097,
+    "requirements": {
+      "building": "Factory",
+      "amount": 17
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 138,
+    "name": "Factory Upgrade 18",
+    "price": 20682552168.698116,
+    "requirements": {
+      "building": "Factory",
+      "amount": 18
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 139,
+    "name": "Factory Upgrade 19",
+    "price": 23784934994.00283,
+    "requirements": {
+      "building": "Factory",
+      "amount": 19
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 140,
+    "name": "Factory Upgrade 20",
+    "price": 27352675243.103252,
+    "requirements": {
+      "building": "Factory",
+      "amount": 20
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 141,
+    "name": "Factory Upgrade 21",
+    "price": 31455576529.568737,
+    "requirements": {
+      "building": "Factory",
+      "amount": 21
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 142,
+    "name": "Factory Upgrade 22",
+    "price": 36173913009.00404,
+    "requirements": {
+      "building": "Factory",
+      "amount": 22
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 143,
+    "name": "Factory Upgrade 23",
+    "price": 41599999960.354645,
+    "requirements": {
+      "building": "Factory",
+      "amount": 23
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 144,
+    "name": "Factory Upgrade 24",
+    "price": 47839999954.40784,
+    "requirements": {
+      "building": "Factory",
+      "amount": 24
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 145,
+    "name": "Factory Upgrade 25",
+    "price": 55015999947.56901,
+    "requirements": {
+      "building": "Factory",
+      "amount": 25
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 146,
+    "name": "Factory Upgrade 26",
+    "price": 63268399939.70435,
+    "requirements": {
+      "building": "Factory",
+      "amount": 26
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 147,
+    "name": "Factory Upgrade 27",
+    "price": 72758659930.66,
+    "requirements": {
+      "building": "Factory",
+      "amount": 27
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 148,
+    "name": "Factory Upgrade 28",
+    "price": 83672458920.259,
+    "requirements": {
+      "building": "Factory",
+      "amount": 28
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 149,
+    "name": "Factory Upgrade 29",
+    "price": 96223327758.29785,
+    "requirements": {
+      "building": "Factory",
+      "amount": 29
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 150,
+    "name": "Factory Upgrade 30",
+    "price": 110656826922.04253,
+    "requirements": {
+      "building": "Factory",
+      "amount": 30
+    },
+    "category": "factory",
+    "multiplier": 2
+  },
+  {
+    "id": 151,
+    "name": "Bank Upgrade 1",
+    "price": 127255350960.34889,
+    "requirements": {
+      "building": "Bank",
+      "amount": 1
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 152,
+    "name": "Bank Upgrade 2",
+    "price": 146343653604.4012,
+    "requirements": {
+      "building": "Bank",
+      "amount": 2
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 153,
+    "name": "Bank Upgrade 3",
+    "price": 168295201645.06137,
+    "requirements": {
+      "building": "Bank",
+      "amount": 3
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 154,
+    "name": "Bank Upgrade 4",
+    "price": 193539481891.82056,
+    "requirements": {
+      "building": "Bank",
+      "amount": 4
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 155,
+    "name": "Bank Upgrade 5",
+    "price": 222570404175.59363,
+    "requirements": {
+      "building": "Bank",
+      "amount": 5
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 156,
+    "name": "Bank Upgrade 6",
+    "price": 255955964801.93265,
+    "requirements": {
+      "building": "Bank",
+      "amount": 6
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 157,
+    "name": "Bank Upgrade 7",
+    "price": 294349359522.22253,
+    "requirements": {
+      "building": "Bank",
+      "amount": 7
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 158,
+    "name": "Bank Upgrade 8",
+    "price": 338501763450.5559,
+    "requirements": {
+      "building": "Bank",
+      "amount": 8
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 159,
+    "name": "Bank Upgrade 9",
+    "price": 389277027968.1393,
+    "requirements": {
+      "building": "Bank",
+      "amount": 9
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 160,
+    "name": "Bank Upgrade 10",
+    "price": 447668582163.36017,
+    "requirements": {
+      "building": "Bank",
+      "amount": 10
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 161,
+    "name": "Bank Upgrade 11",
+    "price": 514818869487.86414,
+    "requirements": {
+      "building": "Bank",
+      "amount": 11
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 162,
+    "name": "Bank Upgrade 12",
+    "price": 592041699911.0437,
+    "requirements": {
+      "building": "Bank",
+      "amount": 12
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 163,
+    "name": "Bank Upgrade 13",
+    "price": 680847954897.7002,
+    "requirements": {
+      "building": "Bank",
+      "amount": 13
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 164,
+    "name": "Bank Upgrade 14",
+    "price": 782975148132.3552,
+    "requirements": {
+      "building": "Bank",
+      "amount": 14
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 165,
+    "name": "Bank Upgrade 15",
+    "price": 900421420352.2085,
+    "requirements": {
+      "building": "Bank",
+      "amount": 15
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 166,
+    "name": "Bank Upgrade 16",
+    "price": 1035484633405.0397,
+    "requirements": {
+      "building": "Bank",
+      "amount": 16
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 167,
+    "name": "Bank Upgrade 17",
+    "price": 1190807328415.7954,
+    "requirements": {
+      "building": "Bank",
+      "amount": 17
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 168,
+    "name": "Bank Upgrade 18",
+    "price": 1369428427678.1646,
+    "requirements": {
+      "building": "Bank",
+      "amount": 18
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 169,
+    "name": "Bank Upgrade 19",
+    "price": 1574842691829.8892,
+    "requirements": {
+      "building": "Bank",
+      "amount": 19
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 170,
+    "name": "Bank Upgrade 20",
+    "price": 1811069095604.3723,
+    "requirements": {
+      "building": "Bank",
+      "amount": 20
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 171,
+    "name": "Bank Upgrade 21",
+    "price": 2082729459945.028,
+    "requirements": {
+      "building": "Bank",
+      "amount": 21
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 172,
+    "name": "Bank Upgrade 22",
+    "price": 2395138878936.782,
+    "requirements": {
+      "building": "Bank",
+      "amount": 22
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 173,
+    "name": "Bank Upgrade 23",
+    "price": 2754409710777.2993,
+    "requirements": {
+      "building": "Bank",
+      "amount": 23
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 174,
+    "name": "Bank Upgrade 24",
+    "price": 3167571167393.894,
+    "requirements": {
+      "building": "Bank",
+      "amount": 24
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 175,
+    "name": "Bank Upgrade 25",
+    "price": 3642706842502.978,
+    "requirements": {
+      "building": "Bank",
+      "amount": 25
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 176,
+    "name": "Bank Upgrade 26",
+    "price": 4189112868878.4243,
+    "requirements": {
+      "building": "Bank",
+      "amount": 26
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 177,
+    "name": "Bank Upgrade 27",
+    "price": 4817479799210.1875,
+    "requirements": {
+      "building": "Bank",
+      "amount": 27
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 178,
+    "name": "Bank Upgrade 28",
+    "price": 5540101769091.715,
+    "requirements": {
+      "building": "Bank",
+      "amount": 28
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 179,
+    "name": "Bank Upgrade 29",
+    "price": 6371117034455.472,
+    "requirements": {
+      "building": "Bank",
+      "amount": 29
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 180,
+    "name": "Bank Upgrade 30",
+    "price": 7326784589623.792,
+    "requirements": {
+      "building": "Bank",
+      "amount": 30
+    },
+    "category": "bank",
+    "multiplier": 2
+  },
+  {
+    "id": 181,
+    "name": "Temple Upgrade 1",
+    "price": 8425802278067.36,
+    "requirements": {
+      "building": "Temple",
+      "amount": 1
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 182,
+    "name": "Temple Upgrade 2",
+    "price": 9689672619777.463,
+    "requirements": {
+      "building": "Temple",
+      "amount": 2
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 183,
+    "name": "Temple Upgrade 3",
+    "price": 11143123512744.082,
+    "requirements": {
+      "building": "Temple",
+      "amount": 3
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 184,
+    "name": "Temple Upgrade 4",
+    "price": 12814592039655.693,
+    "requirements": {
+      "building": "Temple",
+      "amount": 4
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 185,
+    "name": "Temple Upgrade 5",
+    "price": 14736780845604.047,
+    "requirements": {
+      "building": "Temple",
+      "amount": 5
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 186,
+    "name": "Temple Upgrade 6",
+    "price": 16947297972444.652,
+    "requirements": {
+      "building": "Temple",
+      "amount": 6
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 187,
+    "name": "Temple Upgrade 7",
+    "price": 19489392668311.348,
+    "requirements": {
+      "building": "Temple",
+      "amount": 7
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 188,
+    "name": "Temple Upgrade 8",
+    "price": 22412801568558.047,
+    "requirements": {
+      "building": "Temple",
+      "amount": 8
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 189,
+    "name": "Temple Upgrade 9",
+    "price": 25774721803841.75,
+    "requirements": {
+      "building": "Temple",
+      "amount": 9
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 190,
+    "name": "Temple Upgrade 10",
+    "price": 29640930074418.01,
+    "requirements": {
+      "building": "Temple",
+      "amount": 10
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 191,
+    "name": "Temple Upgrade 11",
+    "price": 34087069585580.71,
+    "requirements": {
+      "building": "Temple",
+      "amount": 11
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 192,
+    "name": "Temple Upgrade 12",
+    "price": 39200130023417.81,
+    "requirements": {
+      "building": "Temple",
+      "amount": 12
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 193,
+    "name": "Temple Upgrade 13",
+    "price": 45080149526930.484,
+    "requirements": {
+      "building": "Temple",
+      "amount": 13
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 194,
+    "name": "Temple Upgrade 14",
+    "price": 51842171955970.055,
+    "requirements": {
+      "building": "Temple",
+      "amount": 14
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 195,
+    "name": "Temple Upgrade 15",
+    "price": 59618497749365.555,
+    "requirements": {
+      "building": "Temple",
+      "amount": 15
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 196,
+    "name": "Temple Upgrade 16",
+    "price": 68561272411770.38,
+    "requirements": {
+      "building": "Temple",
+      "amount": 16
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 197,
+    "name": "Temple Upgrade 17",
+    "price": 78845463273535.94,
+    "requirements": {
+      "building": "Temple",
+      "amount": 17
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 198,
+    "name": "Temple Upgrade 18",
+    "price": 90672282764566.33,
+    "requirements": {
+      "building": "Temple",
+      "amount": 18
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 199,
+    "name": "Temple Upgrade 19",
+    "price": 104273125179251.27,
+    "requirements": {
+      "building": "Temple",
+      "amount": 19
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 200,
+    "name": "Temple Upgrade 20",
+    "price": 119914093956138.95,
+    "requirements": {
+      "building": "Temple",
+      "amount": 20
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 201,
+    "name": "Temple Upgrade 21",
+    "price": 137901208049559.78,
+    "requirements": {
+      "building": "Temple",
+      "amount": 21
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 202,
+    "name": "Temple Upgrade 22",
+    "price": 158586389256993.75,
+    "requirements": {
+      "building": "Temple",
+      "amount": 22
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 203,
+    "name": "Temple Upgrade 23",
+    "price": 182374347645542.8,
+    "requirements": {
+      "building": "Temple",
+      "amount": 23
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 204,
+    "name": "Temple Upgrade 24",
+    "price": 209730499792374.22,
+    "requirements": {
+      "building": "Temple",
+      "amount": 24
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 205,
+    "name": "Temple Upgrade 25",
+    "price": 241190074761230.34,
+    "requirements": {
+      "building": "Temple",
+      "amount": 25
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 206,
+    "name": "Temple Upgrade 26",
+    "price": 277368585975414.88,
+    "requirements": {
+      "building": "Temple",
+      "amount": 26
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 207,
+    "name": "Temple Upgrade 27",
+    "price": 318973873871727.06,
+    "requirements": {
+      "building": "Temple",
+      "amount": 27
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 208,
+    "name": "Temple Upgrade 28",
+    "price": 366819954952486.06,
+    "requirements": {
+      "building": "Temple",
+      "amount": 28
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 209,
+    "name": "Temple Upgrade 29",
+    "price": 421842948195358.94,
+    "requirements": {
+      "building": "Temple",
+      "amount": 29
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 210,
+    "name": "Temple Upgrade 30",
+    "price": 485119390424662.75,
+    "requirements": {
+      "building": "Temple",
+      "amount": 30
+    },
+    "category": "temple",
+    "multiplier": 2
+  },
+  {
+    "id": 211,
+    "name": "Wizard Upgrade 1",
+    "price": 557887298988362.1,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 1
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 212,
+    "name": "Wizard Upgrade 2",
+    "price": 641570393836616.4,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 2
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 213,
+    "name": "Wizard Upgrade 3",
+    "price": 737805952912108.8,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 3
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 214,
+    "name": "Wizard Upgrade 4",
+    "price": 848476845848925.0,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 4
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 215,
+    "name": "Wizard Upgrade 5",
+    "price": 975748372726263.6,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 5
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 216,
+    "name": "Wizard Upgrade 6",
+    "price": 1122110628635203.1,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 6
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 217,
+    "name": "Wizard Upgrade 7",
+    "price": 1290427222930483.5,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 7
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 218,
+    "name": "Wizard Upgrade 8",
+    "price": 1483991306370056.0,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 8
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 219,
+    "name": "Wizard Upgrade 9",
+    "price": 1706590002325564.2,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 9
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 220,
+    "name": "Wizard Upgrade 10",
+    "price": 1962578502674398.8,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 10
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 221,
+    "name": "Wizard Upgrade 11",
+    "price": 2256965278075558.5,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 11
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 222,
+    "name": "Wizard Upgrade 12",
+    "price": 2595510069786892.0,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 12
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 223,
+    "name": "Wizard Upgrade 13",
+    "price": 2984836580254925.5,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 13
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 224,
+    "name": "Wizard Upgrade 14",
+    "price": 3432562067293164.0,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 14
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 225,
+    "name": "Wizard Upgrade 15",
+    "price": 3947446377387138.5,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 15
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 226,
+    "name": "Wizard Upgrade 16",
+    "price": 4539563333995209.0,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 16
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 227,
+    "name": "Wizard Upgrade 17",
+    "price": 5220497834094490.0,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 17
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 228,
+    "name": "Wizard Upgrade 18",
+    "price": 6003572509208663.0,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 18
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 229,
+    "name": "Wizard Upgrade 19",
+    "price": 6904108385589962.0,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 19
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 230,
+    "name": "Wizard Upgrade 20",
+    "price": 7939724643428456.0,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 20
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 231,
+    "name": "Wizard Upgrade 21",
+    "price": 9130683339942724.0,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 21
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 232,
+    "name": "Wizard Upgrade 22",
+    "price": 1.0500285840934132e+16,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 22
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 233,
+    "name": "Wizard Upgrade 23",
+    "price": 1.207532871707425e+16,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 23
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 234,
+    "name": "Wizard Upgrade 24",
+    "price": 1.3886628024635386e+16,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 24
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 235,
+    "name": "Wizard Upgrade 25",
+    "price": 1.5969622228330692e+16,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 25
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 236,
+    "name": "Wizard Upgrade 26",
+    "price": 1.8365065562580296e+16,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 26
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 237,
+    "name": "Wizard Upgrade 27",
+    "price": 2.111982539696734e+16,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 27
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 238,
+    "name": "Wizard Upgrade 28",
+    "price": 2.428779920651244e+16,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 28
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 239,
+    "name": "Wizard Upgrade 29",
+    "price": 2.7930969087489304e+16,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 29
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 240,
+    "name": "Wizard Upgrade 30",
+    "price": 3.2120614450612696e+16,
+    "requirements": {
+      "building": "Wizard",
+      "amount": 30
+    },
+    "category": "wizard",
+    "multiplier": 2
+  },
+  {
+    "id": 241,
+    "name": "Shipment Upgrade 1",
+    "price": 3.69387066182046e+16,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 1
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 242,
+    "name": "Shipment Upgrade 2",
+    "price": 4.247951261093529e+16,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 2
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 243,
+    "name": "Shipment Upgrade 3",
+    "price": 4.8851439502575576e+16,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 3
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 244,
+    "name": "Shipment Upgrade 4",
+    "price": 5.617915542796191e+16,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 4
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 245,
+    "name": "Shipment Upgrade 5",
+    "price": 6.460602874215619e+16,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 5
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 246,
+    "name": "Shipment Upgrade 6",
+    "price": 7.429693305347962e+16,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 6
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 247,
+    "name": "Shipment Upgrade 7",
+    "price": 8.544147301150155e+16,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 7
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 248,
+    "name": "Shipment Upgrade 8",
+    "price": 9.825769396322678e+16,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 8
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 249,
+    "name": "Shipment Upgrade 9",
+    "price": 1.129963480577108e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 9
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 250,
+    "name": "Shipment Upgrade 10",
+    "price": 1.2994580026636741e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 10
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 251,
+    "name": "Shipment Upgrade 11",
+    "price": 1.494376703063225e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 11
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 252,
+    "name": "Shipment Upgrade 12",
+    "price": 1.7185332085227085e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 12
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 253,
+    "name": "Shipment Upgrade 13",
+    "price": 1.9763131898011146e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 13
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 254,
+    "name": "Shipment Upgrade 14",
+    "price": 2.2727601682712816e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 14
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 255,
+    "name": "Shipment Upgrade 15",
+    "price": 2.6136741935119738e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 15
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 256,
+    "name": "Shipment Upgrade 16",
+    "price": 3.005725322538769e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 16
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 257,
+    "name": "Shipment Upgrade 17",
+    "price": 3.4565841209195846e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 17
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 258,
+    "name": "Shipment Upgrade 18",
+    "price": 3.975071739057522e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 18
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 259,
+    "name": "Shipment Upgrade 19",
+    "price": 4.57133249991615e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 19
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 260,
+    "name": "Shipment Upgrade 20",
+    "price": 5.257032374903572e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 20
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 261,
+    "name": "Shipment Upgrade 21",
+    "price": 6.045587231139107e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 21
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 262,
+    "name": "Shipment Upgrade 22",
+    "price": 6.952425315809972e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 22
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 263,
+    "name": "Shipment Upgrade 23",
+    "price": 7.995289113181468e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 23
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 264,
+    "name": "Shipment Upgrade 24",
+    "price": 9.194582480158688e+17,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 24
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 265,
+    "name": "Shipment Upgrade 25",
+    "price": 1.0573769852182491e+18,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 25
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 266,
+    "name": "Shipment Upgrade 26",
+    "price": 1.2159835330009864e+18,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 26
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 267,
+    "name": "Shipment Upgrade 27",
+    "price": 1.3983810629511342e+18,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 27
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 268,
+    "name": "Shipment Upgrade 28",
+    "price": 1.6081382223938043e+18,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 28
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 269,
+    "name": "Shipment Upgrade 29",
+    "price": 1.8493589557528748e+18,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 29
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 270,
+    "name": "Shipment Upgrade 30",
+    "price": 2.1267627991158057e+18,
+    "requirements": {
+      "building": "Shipment",
+      "amount": 30
+    },
+    "category": "shipment",
+    "multiplier": 2
+  },
+  {
+    "id": 271,
+    "name": "Alchemy Upgrade 1",
+    "price": 2.445777218983176e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 1
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 272,
+    "name": "Alchemy Upgrade 2",
+    "price": 2.8126438018306524e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 2
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 273,
+    "name": "Alchemy Upgrade 3",
+    "price": 3.23454037210525e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 3
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 274,
+    "name": "Alchemy Upgrade 4",
+    "price": 3.719721427921037e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 4
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 275,
+    "name": "Alchemy Upgrade 5",
+    "price": 4.277679642109192e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 5
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 276,
+    "name": "Alchemy Upgrade 6",
+    "price": 4.91933158842557e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 6
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 277,
+    "name": "Alchemy Upgrade 7",
+    "price": 5.657231326689405e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 7
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 278,
+    "name": "Alchemy Upgrade 8",
+    "price": 6.505816025692815e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 8
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 279,
+    "name": "Alchemy Upgrade 9",
+    "price": 7.481688429546737e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 9
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 280,
+    "name": "Alchemy Upgrade 10",
+    "price": 8.603941693978747e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 10
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 281,
+    "name": "Alchemy Upgrade 11",
+    "price": 9.894532948075559e+18,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 11
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 282,
+    "name": "Alchemy Upgrade 12",
+    "price": 1.137871289028689e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 12
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 283,
+    "name": "Alchemy Upgrade 13",
+    "price": 1.3085519823829924e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 13
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 284,
+    "name": "Alchemy Upgrade 14",
+    "price": 1.5048347797404412e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 14
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 285,
+    "name": "Alchemy Upgrade 15",
+    "price": 1.7305599967015072e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 15
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 286,
+    "name": "Alchemy Upgrade 16",
+    "price": 1.990143996206733e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 16
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 287,
+    "name": "Alchemy Upgrade 17",
+    "price": 2.288665595637743e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 17
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 288,
+    "name": "Alchemy Upgrade 18",
+    "price": 2.631965434983404e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 18
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 289,
+    "name": "Alchemy Upgrade 19",
+    "price": 3.0267602502309143e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 19
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 290,
+    "name": "Alchemy Upgrade 20",
+    "price": 3.480774287765551e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 20
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 291,
+    "name": "Alchemy Upgrade 21",
+    "price": 4.002890430930384e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 21
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 292,
+    "name": "Alchemy Upgrade 22",
+    "price": 4.603323995569941e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 22
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 293,
+    "name": "Alchemy Upgrade 23",
+    "price": 5.293822594905431e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 23
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 294,
+    "name": "Alchemy Upgrade 24",
+    "price": 6.087895984141246e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 24
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 295,
+    "name": "Alchemy Upgrade 25",
+    "price": 7.001080381762432e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 25
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 296,
+    "name": "Alchemy Upgrade 26",
+    "price": 8.051242439026796e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 26
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 297,
+    "name": "Alchemy Upgrade 27",
+    "price": 9.258928804880815e+19,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 27
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 298,
+    "name": "Alchemy Upgrade 28",
+    "price": 1.0647768125612936e+20,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 28
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 299,
+    "name": "Alchemy Upgrade 29",
+    "price": 1.2244933344454876e+20,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 29
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 300,
+    "name": "Alchemy Upgrade 30",
+    "price": 1.4081673346123106e+20,
+    "requirements": {
+      "building": "Alchemy",
+      "amount": 30
+    },
+    "category": "alchemy",
+    "multiplier": 2
+  },
+  {
+    "id": 301,
+    "name": "Portal Upgrade 1",
+    "price": 1.619392434804157e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 1
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 302,
+    "name": "Portal Upgrade 2",
+    "price": 1.8623013000247804e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 2
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 303,
+    "name": "Portal Upgrade 3",
+    "price": 2.1416464950284973e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 3
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 304,
+    "name": "Portal Upgrade 4",
+    "price": 2.4628934692827716e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 4
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 305,
+    "name": "Portal Upgrade 5",
+    "price": 2.832327489675187e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 5
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 306,
+    "name": "Portal Upgrade 6",
+    "price": 3.2571766131264645e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 6
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 307,
+    "name": "Portal Upgrade 7",
+    "price": 3.745753105095434e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 7
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 308,
+    "name": "Portal Upgrade 8",
+    "price": 4.307616070859749e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 8
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 309,
+    "name": "Portal Upgrade 9",
+    "price": 4.953758481488711e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 9
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 310,
+    "name": "Portal Upgrade 10",
+    "price": 5.696822253712017e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 10
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 311,
+    "name": "Portal Upgrade 11",
+    "price": 6.55134559176882e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 11
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 312,
+    "name": "Portal Upgrade 12",
+    "price": 7.534047430534142e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 12
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 313,
+    "name": "Portal Upgrade 13",
+    "price": 8.664154545114263e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 13
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 314,
+    "name": "Portal Upgrade 14",
+    "price": 9.963777726881401e+20,
+    "requirements": {
+      "building": "Portal",
+      "amount": 14
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 315,
+    "name": "Portal Upgrade 15",
+    "price": 1.145834438591361e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 15
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 316,
+    "name": "Portal Upgrade 16",
+    "price": 1.3177096043800651e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 16
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 317,
+    "name": "Portal Upgrade 17",
+    "price": 1.5153660450370748e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 17
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 318,
+    "name": "Portal Upgrade 18",
+    "price": 1.7426709517926358e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 18
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 319,
+    "name": "Portal Upgrade 19",
+    "price": 2.004071594561531e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 19
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 320,
+    "name": "Portal Upgrade 20",
+    "price": 2.3046823337457604e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 20
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 321,
+    "name": "Portal Upgrade 21",
+    "price": 2.650384683807624e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 21
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 322,
+    "name": "Portal Upgrade 22",
+    "price": 3.0479423863787676e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 22
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 323,
+    "name": "Portal Upgrade 23",
+    "price": 3.5051337443355824e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 23
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 324,
+    "name": "Portal Upgrade 24",
+    "price": 4.0309038059859193e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 24
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 325,
+    "name": "Portal Upgrade 25",
+    "price": 4.635539376883807e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 25
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 326,
+    "name": "Portal Upgrade 26",
+    "price": 5.330870283416377e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 26
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 327,
+    "name": "Portal Upgrade 27",
+    "price": 6.130500825928833e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 27
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 328,
+    "name": "Portal Upgrade 28",
+    "price": 7.050075949818157e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 28
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 329,
+    "name": "Portal Upgrade 29",
+    "price": 8.107587342290881e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 29
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 330,
+    "name": "Portal Upgrade 30",
+    "price": 9.323725443634512e+21,
+    "requirements": {
+      "building": "Portal",
+      "amount": 30
+    },
+    "category": "portal",
+    "multiplier": 2
+  },
+  {
+    "id": 331,
+    "name": "Time Upgrade 1",
+    "price": 1.0722284260179688e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 1
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 332,
+    "name": "Time Upgrade 2",
+    "price": 1.233062689920664e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 2
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 333,
+    "name": "Time Upgrade 3",
+    "price": 1.4180220934087634e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 3
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 334,
+    "name": "Time Upgrade 4",
+    "price": 1.6307254074200778e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 4
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 335,
+    "name": "Time Upgrade 5",
+    "price": 1.8753342185330893e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 5
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 336,
+    "name": "Time Upgrade 6",
+    "price": 2.1566343513130523e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 6
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 337,
+    "name": "Time Upgrade 7",
+    "price": 2.48012950401001e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 7
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 338,
+    "name": "Time Upgrade 8",
+    "price": 2.852148929611511e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 8
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 339,
+    "name": "Time Upgrade 9",
+    "price": 3.2799712690532377e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 9
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 340,
+    "name": "Time Upgrade 10",
+    "price": 3.771966959411223e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 10
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 341,
+    "name": "Time Upgrade 11",
+    "price": 4.3377620033229065e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 11
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 342,
+    "name": "Time Upgrade 12",
+    "price": 4.988426303821342e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 12
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 343,
+    "name": "Time Upgrade 13",
+    "price": 5.736690249394542e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 13
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 344,
+    "name": "Time Upgrade 14",
+    "price": 6.5971937868037235e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 14
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 345,
+    "name": "Time Upgrade 15",
+    "price": 7.586772854824281e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 15
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 346,
+    "name": "Time Upgrade 16",
+    "price": 8.724788783047923e+22,
+    "requirements": {
+      "building": "Time",
+      "amount": 16
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 347,
+    "name": "Time Upgrade 17",
+    "price": 1.0033507100505111e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 17
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 348,
+    "name": "Time Upgrade 18",
+    "price": 1.1538533165580878e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 18
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 349,
+    "name": "Time Upgrade 19",
+    "price": 1.3269313140418008e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 19
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 350,
+    "name": "Time Upgrade 20",
+    "price": 1.5259710111480707e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 20
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 351,
+    "name": "Time Upgrade 21",
+    "price": 1.7548666628202813e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 21
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 352,
+    "name": "Time Upgrade 22",
+    "price": 2.0180966622433233e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 22
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 353,
+    "name": "Time Upgrade 23",
+    "price": 2.3208111615798216e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 23
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 354,
+    "name": "Time Upgrade 24",
+    "price": 2.6689328358167948e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 24
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 355,
+    "name": "Time Upgrade 25",
+    "price": 3.069272761189314e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 25
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 356,
+    "name": "Time Upgrade 26",
+    "price": 3.5296636753677106e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 26
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 357,
+    "name": "Time Upgrade 27",
+    "price": 4.059113226672867e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 27
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 358,
+    "name": "Time Upgrade 28",
+    "price": 4.667980210673797e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 28
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 359,
+    "name": "Time Upgrade 29",
+    "price": 5.368177242274866e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 29
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 360,
+    "name": "Time Upgrade 30",
+    "price": 6.173403828616095e+23,
+    "requirements": {
+      "building": "Time",
+      "amount": 30
+    },
+    "category": "time",
+    "multiplier": 2
+  },
+  {
+    "id": 361,
+    "name": "Antimatter Upgrade 1",
+    "price": 7.099414402908509e+23,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 1
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 362,
+    "name": "Antimatter Upgrade 2",
+    "price": 8.164326563344784e+23,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 2
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 363,
+    "name": "Antimatter Upgrade 3",
+    "price": 9.388975547846501e+23,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 3
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 364,
+    "name": "Antimatter Upgrade 4",
+    "price": 1.0797321880023476e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 4
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 365,
+    "name": "Antimatter Upgrade 5",
+    "price": 1.2416920162026997e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 5
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 366,
+    "name": "Antimatter Upgrade 6",
+    "price": 1.4279458186331045e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 6
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 367,
+    "name": "Antimatter Upgrade 7",
+    "price": 1.6421376914280702e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 7
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 368,
+    "name": "Antimatter Upgrade 8",
+    "price": 1.8884583451422806e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 8
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 369,
+    "name": "Antimatter Upgrade 9",
+    "price": 2.1717270969136225e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 9
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 370,
+    "name": "Antimatter Upgrade 10",
+    "price": 2.4974861614506656e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 10
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 371,
+    "name": "Antimatter Upgrade 11",
+    "price": 2.872109085668265e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 11
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 372,
+    "name": "Antimatter Upgrade 12",
+    "price": 3.302925448518504e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 12
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 373,
+    "name": "Antimatter Upgrade 13",
+    "price": 3.79836426579628e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 13
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 374,
+    "name": "Antimatter Upgrade 14",
+    "price": 4.368118905665721e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 14
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 375,
+    "name": "Antimatter Upgrade 15",
+    "price": 5.02333674151558e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 15
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 376,
+    "name": "Antimatter Upgrade 16",
+    "price": 5.776837252742916e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 16
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 377,
+    "name": "Antimatter Upgrade 17",
+    "price": 6.643362840654353e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 17
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 378,
+    "name": "Antimatter Upgrade 18",
+    "price": 7.639867266752505e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 18
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 379,
+    "name": "Antimatter Upgrade 19",
+    "price": 8.785847356765381e+24,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 19
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 380,
+    "name": "Antimatter Upgrade 20",
+    "price": 1.0103724460280187e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 20
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 381,
+    "name": "Antimatter Upgrade 21",
+    "price": 1.1619283129322214e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 21
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 382,
+    "name": "Antimatter Upgrade 22",
+    "price": 1.3362175598720544e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 22
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 383,
+    "name": "Antimatter Upgrade 23",
+    "price": 1.5366501938528624e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 23
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 384,
+    "name": "Antimatter Upgrade 24",
+    "price": 1.7671477229307917e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 24
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 385,
+    "name": "Antimatter Upgrade 25",
+    "price": 2.0322198813704103e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 25
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 386,
+    "name": "Antimatter Upgrade 26",
+    "price": 2.3370528635759714e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 26
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 387,
+    "name": "Antimatter Upgrade 27",
+    "price": 2.6876107931123668e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 27
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 388,
+    "name": "Antimatter Upgrade 28",
+    "price": 3.0907524120792218e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 28
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 389,
+    "name": "Antimatter Upgrade 29",
+    "price": 3.5543652738911046e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 29
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  },
+  {
+    "id": 390,
+    "name": "Antimatter Upgrade 30",
+    "price": 4.08752006497477e+25,
+    "requirements": {
+      "building": "Antimatter",
+      "amount": 30
+    },
+    "category": "antimatter",
+    "multiplier": 2
+  }
+]
